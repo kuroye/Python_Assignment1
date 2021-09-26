@@ -2,6 +2,8 @@
 This is Assignment1 for advanced programming in python course, this program can filter out top N cryptocurrencies by market capitalization 
 
 ## Installation
+To launch this program, install pycoingecko is necessary
+
 PyPI
 ```
 pip install pycoingecko
